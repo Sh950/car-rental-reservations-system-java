@@ -1,4 +1,4 @@
-Car Rental System - README
+car-rental-reservations-system-java - README
 
 This project provides a simple Java-based implementation for a car rental system, demonstrating the use of object-oriented programming concepts such as encapsulation, constructors, inheritance, and polymorphism.
 
