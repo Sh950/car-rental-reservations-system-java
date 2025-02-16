@@ -48,13 +48,8 @@ Date
 
 Represents a date with support for validity checks, comparisons, and difference calculations.
 
+
 Key Features:
-
-Ensures proper date validation (leap years, valid days/months).
-
-Provides utility methods like equals(Date other), before(Date other), and after(Date other).
-
-Features
 
 Data Validation: Ensures all inputs (dates, car types, etc.) adhere to specified rules.
 
@@ -65,3 +60,7 @@ Car Comparison: Allows better/worse comparison based on car type and gear.
 Rental Overlaps: Detects overlapping rentals for the same car and customer.
 
 Encapsulation: Uses private fields and accessor/mutator methods to enforce encapsulation.
+
+Important Methods:
+
+isValidDate(day, month, year), calculateDate(day, month, year), getDay(), getMonth(), getYear(), equals(other), before(other), after(other), difference(other), toString().
