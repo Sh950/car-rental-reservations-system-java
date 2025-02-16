@@ -65,13 +65,3 @@ Car Comparison: Allows better/worse comparison based on car type and gear.
 Rental Overlaps: Detects overlapping rentals for the same car and customer.
 
 Encapsulation: Uses private fields and accessor/mutator methods to enforce encapsulation.
-
-How to Use
-
-Clone or download the project files (Car.java, Rent.java, Date.java).
-
-Compile the files using a Java compiler:
-
-bash
-
-
